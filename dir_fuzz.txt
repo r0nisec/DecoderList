@@ -1,6 +1,7 @@
 access
 accounts.sql
 admin
+admin.js
 admin.php
 api
 api/apidocs
@@ -130,7 +131,13 @@ var/ossec/rules
 var/ossec/rules/local_rules.xml
 view_all_set.php
 .vscode/settings.json
+.well-known/assetlinks.json
+.well-known/openid-configuration
+.well-known/apple-app-site-association
 web.xml
 wp-content/mysql.sql
 xmlrpc.php
 yarn.lock
+vendor/composer/installed.json
+vendor/composer/LICENSE
+vendor/phpunit/phpunit/phpunit
