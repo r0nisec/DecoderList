@@ -44,3 +44,6 @@ ntrospect
 userinfo
 discovery
 keys
+owner
+maintainer
+developer
