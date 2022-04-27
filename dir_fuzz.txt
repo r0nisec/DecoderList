@@ -6034,6 +6034,7 @@ oab/
 oauth
 oauth/authorize
 oauth/discovery/keys
+oauth2/access_token
 oauth.%EXT%
 oauth/introspect
 oauth/login/
