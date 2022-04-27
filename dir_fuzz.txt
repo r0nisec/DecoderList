@@ -4036,6 +4036,10 @@ github-recovery-codes.txt
 .gitlab
 gitlab
 gitlab/
+graphql
+graphiql
+graphql.php
+graphql/console
 .gitlab-ci/.env
 .gitlab-ci.off.yml
 .gitlab-ci.yml
