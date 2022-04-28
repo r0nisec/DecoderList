@@ -1614,6 +1614,8 @@ app/src
 app/storage/
 apps/vendor/phpunit/phpunit/phpunit
 app/sys
+api/user/allUsers
+api/user/updateUserEmail
 app/testing
 app/tmp/
 app/unschedule.bat
