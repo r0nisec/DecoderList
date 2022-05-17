@@ -1503,6 +1503,8 @@ api/swagger/ui/index
 api/swagger.yaml
 api/swagger.yml
 api/timelion/run
+api/user/allUsers
+api/user/updateUserEmail
 api/v1
 api/v1/
 api/v1/secrets
@@ -1614,8 +1616,6 @@ app/src
 app/storage/
 apps/vendor/phpunit/phpunit/phpunit
 app/sys
-api/user/allUsers
-api/user/updateUserEmail
 app/testing
 app/tmp/
 app/unschedule.bat
@@ -4030,6 +4030,7 @@ github-recovery-codes.txt
 .git/index
 .git/info/
 .git/info/attributes
+.git/info/exclud
 .git/info/exclude
 .git/info/refs
 .git.json
@@ -4038,10 +4039,6 @@ github-recovery-codes.txt
 .gitlab
 gitlab
 gitlab/
-graphql
-graphiql
-graphql.php
-graphql/console
 .gitlab-ci/.env
 .gitlab-ci.off.yml
 .gitlab-ci.yml
@@ -6038,9 +6035,9 @@ nytprof.out
 o
 oab/
 oauth
+oauth2/access_token
 oauth/authorize
 oauth/discovery/keys
-oauth2/access_token
 oauth.%EXT%
 oauth/introspect
 oauth/login/
@@ -6185,6 +6182,7 @@ p/
 package
 package/
 package-cache
+.package.json
 package.json
 package-lock.json
 .packages
@@ -7105,6 +7103,7 @@ README.html
 readme.md
 Readme.md
 ReadMe.md
+.README.md
 README.md
 README.MD
 .README.md.bud
@@ -7736,6 +7735,7 @@ SnoopServlet
 snort/
 snp
 .snyk
+.soap/
 soap/
 soapdocs/
 soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
@@ -8517,6 +8517,7 @@ travel
 .travis.yml.swp
 tripwire/
 trivia/
+.tsconfig.json
 tsconfig.json
 tst
 tsweb
@@ -9485,6 +9486,7 @@ _yardoc/
 yarn-debug.log
 yarn-error.log
 .yarn-integrity
+.yarn.lock
 yarn.lock
 .yarnrc
 .ycm_extra_conf.py
