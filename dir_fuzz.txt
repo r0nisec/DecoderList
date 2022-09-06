@@ -5,6 +5,7 @@ wp-admin.php.bak
 wp-config.php.bak
 wp-content/uploads
 Wp-load
+/cgi-bin/printenv.pl
 status?full
 /admin/docs/private/finances
 wp-signup.php
