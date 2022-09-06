@@ -5,6 +5,7 @@ wp-admin.php.bak
 wp-config.php.bak
 wp-content/uploads
 Wp-load
+status?full
 wp-signup.php
 Wp-json
 wp-json
