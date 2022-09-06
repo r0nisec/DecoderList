@@ -6,6 +6,7 @@ wp-config.php.bak
 wp-content/uploads
 Wp-load
 status?full
+/admin/docs/private/finances
 wp-signup.php
 Wp-json
 wp-json
