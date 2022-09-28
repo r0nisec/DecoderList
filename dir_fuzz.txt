@@ -5,6 +5,8 @@ wp-admin.php
 /db_backup.sql
 /dbdump.sql
 setup.sql
+/_wpeprivate/config.json
+_wpeprivate/config.json
 sqldump.sql
 /dump.sql
 /mysql.sql
