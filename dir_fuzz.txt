@@ -8,6 +8,8 @@ setup.sql
 /_wpeprivate/config.json
 _wpeprivate/config.json
 sqldump.sql
+/adminconsole/
+/adminconsole/install.htm
 /dump.sql
 /mysql.sql
 /sql.sql
